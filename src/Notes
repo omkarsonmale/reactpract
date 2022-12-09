@@ -1,2 +1,5 @@
 Self closing tag :-<img/>
  If you want to add link inside  image so add img tag inside a tag anchor tag
+ Very important property :-camel case in that property we have to start  first letter with small for ex 1.className
+ 2.contentEditable
+ Today 
